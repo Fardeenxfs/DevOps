@@ -1,0 +1,7 @@
+to learn git reset
+git reset command will moves the all committed files to untracked phase till our desired commit here we are doing handson on it.
+
+handson did:
+i have accidentally commited some sensitve info with this reset file
+then used git reset <commit_id> command to reset the commits to the presious commits
+this reverted back the commit done to the reset file and moved the reset file and sensitive info file to untracked phase, which helped me in securing the sensitive info.
