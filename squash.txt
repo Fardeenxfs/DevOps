@@ -1,1 +1,3 @@
 for learning the squash command
+experimenting on squash usage
+final commit on squash
