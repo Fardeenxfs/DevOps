@@ -1,0 +1,3 @@
+for variable in list; do
+    # Code block to execute for each item in the list
+done

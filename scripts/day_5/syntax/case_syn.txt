@@ -1,0 +1,14 @@
+case "$variable" in
+    pattern1)
+        # Code block to execute if the variable matches pattern1
+        ;;
+    pattern2)
+        # Code block to execute if the variable matches pattern2
+        ;;
+    pattern3)
+        # Code block to execute if the variable matches pattern3
+        ;;
+    *)
+        # Code block to execute if the variable doesn't match any pattern (optional)
+        ;;
+esac
